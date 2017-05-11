@@ -1,2 +1,2 @@
 # hello-world
-first time for Github. A memorable moment. 
+First time for Github. What a memorable moment. 
